@@ -1,0 +1,20 @@
+Car Details: 
+Registration Number: 5008
+Color: White Gold
+Number of Seats: 6
+-----------------------------
+Bike Details: 
+Registration Number: 2
+Color: Red
+Engine Capacity: 350cc
+-----------------------------
+Car Details: 
+Registration Number: 5008
+Color: White Gold
+Number of Seats: 6
+-----------------------------
+Bike Details: 
+Registration Number: 6502
+Color: Rebel Red
+Engine Capacity: 349cc
+-----------------------------
